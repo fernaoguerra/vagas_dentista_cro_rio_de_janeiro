@@ -1,0 +1,1 @@
+key = 'your ifttt webhook key'
